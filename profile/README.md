@@ -1,15 +1,6 @@
-<img width="2048" height="1024" alt="image" src="https://github.com/user-attachments/assets/5d829134-7835-4d94-9ff4-3d6418ba6b44" /><img width="2048" height="1024" alt="image" src="https://github.com/user-attachments/assets/a401d052-b1d2-4bdb-a21f-b88acacbbb75" /><!-- Hero Section -->
 <p align="center">
-  <img src="<img width="3200" height="1600" alt="image" src="https://github.com/user-attachments/assets/ce8604b2-7469-40a0-8616-9ebe3e19d699" />
-" width="900" />
+  <img width="3200" height="1600" alt="image" src="https://github.com/user-attachments/assets/3d96470d-acf2-4600-8b1a-a5c11de35af8" />
 </p>
-
-<h1 align="center">모행</h1>
-<p align="center">
-  모두의 여행 계획 · 일기 서비스
-</p>
-
----
 
 ## ✈️ 프로젝트 소개
 
