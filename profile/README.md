@@ -1,4 +1,4 @@
-## 여행을 조금 더 편하고, 더 가치 있게 만드는 서비스 **모행**.
+## 여행의 순간을 더 가치 있게 만드는 선택, **모행**.
  
 <p align="center">
   <img width="1500" height="700" alt="image" src="https://github.com/user-attachments/assets/3d96470d-acf2-4600-8b1a-a5c11de35af8" />
